@@ -1,0 +1,15 @@
+on file 20: 668932.0 birds in this file
+on file 40: 623836.0 birds in this file
+on file 60: 618758.0 birds in this file
+on file 80: 587958.0 birds in this file
+on file 100: 720050.0 birds in this file
+on file 120: 617868.0 birds in this file
+on file 140: 650039.0 birds in this file
+on file 160: 577168.0 birds in this file
+on file 180: 935969.0 birds in this file
+on file 200: 569030.0 birds in this file
+on file 220: 531568.0 birds in this file
+on file 240: 623206.0 birds in this file
+on file 260: 544287.0 birds in this file
+on file 280: 548465.0 birds in this file
+DONE WITH THE BIG CSV!!
